@@ -1,0 +1,25 @@
+body{
+    background-color: gold;
+    font-family: cursive;
+    margin:auto;
+    margin-left: 5px;
+    color:gold
+}
+.black-border{
+    border:2px solid gold ;
+    
+}
+#green-background{
+    background-color: blue;
+}
+heading{
+    text-align: center;
+    color:blue;
+    
+}
+footer{color:blue;
+    font-size:10px;
+}
+li{
+    color:black;
+}
